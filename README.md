@@ -44,14 +44,13 @@ Script Workflow
 
 Example SMTP List
 
-sql
+
 
 smtp.example.com|587|user@example.com|password
 smtp.another.com|465|user@another.com|password
 
 Example Email List
 
-graphql
 
 recipient1@example.com
 recipient2@another.com
@@ -60,8 +59,6 @@ License
 
 This project is licensed under the MIT License.
 
-rust
 
 
-This README provides clear instructions and information about the "CheckMate" script, making it easier for users to understand and use the tool effectively.
 
